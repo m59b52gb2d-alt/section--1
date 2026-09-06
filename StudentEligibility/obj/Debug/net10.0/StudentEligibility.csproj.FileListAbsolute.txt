@@ -1,0 +1,14 @@
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\bin\Debug\net10.0\StudentEligibility.exe
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\bin\Debug\net10.0\StudentEligibility.deps.json
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\bin\Debug\net10.0\StudentEligibility.runtimeconfig.json
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\bin\Debug\net10.0\StudentEligibility.dll
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\bin\Debug\net10.0\StudentEligibility.pdb
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\StudentEligibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\StudentEligibility.AssemblyInfoInputs.cache
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\StudentEligibility.AssemblyInfo.cs
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\StudentEligibility.csproj.CoreCompileInputs.cache
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\StudentEligibility.dll
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\refint\StudentEligibility.dll
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\StudentEligibility.pdb
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\StudentEligibility.genruntimeconfig.cache
+C:\Users\N\OneDrive\Desktop\section 1\StudentEligibility\obj\Debug\net10.0\ref\StudentEligibility.dll
